@@ -1,0 +1,5 @@
+-Obtiene un numero random
+-Lo evalua con respecto a 0,5
+-Envia a consola la evaluacion: 
+----- MAYOR que 0,5
+----- MENOR que 0,5
